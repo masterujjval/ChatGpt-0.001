@@ -33,10 +33,12 @@ textarea{
     word-break: break-word;
     font-size: 18px;
     color: antiquewhite;
+width:316px;
 }
 .display{
     margin: 6px 12px;
     padding: 10px 10px;
+    width:361px;
 }
 
 /* //enter textarea */
