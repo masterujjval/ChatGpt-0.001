@@ -33,7 +33,6 @@ textarea{
     word-break: break-word;
     font-size: 18px;
     color: antiquewhite;
-width:316px;
 }
 .display{
     margin: 6px 12px;
@@ -85,6 +84,7 @@ top: 137px;
 img{
     margin-left: 19px;
 }
+<<<<<<< HEAD
 
 #msg{
     color: antiquewhite;
@@ -92,3 +92,5 @@ img{
     font-weight: 500;
     margin-left:20px;
 }
+=======
+>>>>>>> d511b06eda9f2723ef57f01704c6dd8749daed52
