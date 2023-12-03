@@ -34,8 +34,9 @@ let input=document.querySelector(".enter");
 btn.addEventListener("click",(e)=>{
 let c=input.value;
 let temp=c.replace(/^\s+|\s+$/gm,'');
-if(obj[temp]){
-    document.querySelector("textarea").innerHTML=obj[temp];
+let n=temp.toLowerCase();
+if(obj[n]){
+    document.querySelector("textarea").innerHTML=obj[n];
 }
 else{
     document.querySelector("textarea").innerHTML="I dont know about this";
