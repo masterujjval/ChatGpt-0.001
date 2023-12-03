@@ -85,3 +85,10 @@ top: 137px;
 img{
     margin-left: 19px;
 }
+
+#msg{
+    color: antiquewhite;
+    font-size: large;
+    font-weight: 500;
+    margin-left:20px;
+}
