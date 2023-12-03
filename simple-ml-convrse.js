@@ -1,4 +1,8 @@
+//styling
+document.getElementById("msg").style.color="white"
+document.getElementById("msg").style.fontSize="large" 
 
+//-----------------------------------------------------------------
 
 let d=new Date();
 
