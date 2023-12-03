@@ -5,6 +5,7 @@
 }
 
 #container{
+    position: relative;
     height: 500px;
     width:400px;
     border:3px solid black;
@@ -61,10 +62,21 @@ button{
     font-size: 24px;
     color: aliceblue;
     outline-style:hidden;
-    color:cadetblue;
+    color:burlywood;
 }
 
 #btn{
     margin-top: 3vh;
     margin-left: 9vw;
+}
+
+
+#image{
+    width: 100px;
+margin: auto;
+position: relative;
+top: 74px;
+}
+img{
+    margin-left: 19px;
 }
