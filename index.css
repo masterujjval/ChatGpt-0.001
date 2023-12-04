@@ -84,7 +84,15 @@ top: 137px;
 img{
     margin-left: 19px;
 }
-
+a{
+    
+    color: grey;
+}
+footer{
+    display: inline-block;
+    margin-left: 50%;
+    margin-top: 20px;
+}
 
 /*phone*/
 
@@ -105,5 +113,9 @@ img{
     #btn{
         top: 38px;
   left: 128px;
+    }
+    footer{
+       margin-left: 49%;
+       margin-top: 61px;
     }
 }
