@@ -26,6 +26,12 @@ let obj=
     "i want to add something" : "You can add questions by making chaneges in github repo",
     "fuck you" : "Fuck you too",
     "tell me a joke" : "Why math book is sad? because it has too many problems.",
+    "hy":"Hello human",
+    "hi":"Hello human",
+    "how are you" : "Im good as always",
+    "im also fine" :"That's so good",
+    "im also good" : "Better than being bad",
+
 }
 
 
