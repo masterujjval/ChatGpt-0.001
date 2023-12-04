@@ -86,3 +86,24 @@ img{
 }
 
 
+/*phone*/
+
+@media screen and (max-width:500px){
+    .display{
+        margin: 6px 2px;
+  
+  width: 366px;
+    }
+    #container{
+        width: 379px;
+
+    }
+    .ele{
+        position: relative;
+        top: 45px;
+    }
+    #btn{
+        top: 38px;
+  left: 128px;
+    }
+}
