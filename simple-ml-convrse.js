@@ -32,7 +32,7 @@ let obj=
     "I'm also fine" :"That's so good",
     "I'm also good" : "Better than being bad",
     "Tell me something" : "The World is goona destroyed so, maintain your repo.",
-    "jai shree ram" :" Jai shree Ram",
+    "jai shree ram" :"Jai shree Ram",
     "Best thing to learn" : "About your past",
     
     
