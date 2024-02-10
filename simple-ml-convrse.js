@@ -31,6 +31,10 @@ let obj=
     "how are you" : "Im good as always",
     "I'm also fine" :"That's so good",
     "I'm also good" : "Better than being bad",
+    "Tell me something" : "The World is goona destroyed so, maintain your repo.",
+    "jai shree ram" :" Jai shree Ram",
+    "Best thing to learn" : "About your past",
+    
     
 
 }
@@ -50,7 +54,7 @@ if(obj[n]){
     document.querySelector("textarea").innerHTML=obj[n];
 }
 else{
-    document.querySelector("textarea").innerHTML="I dont know about this";
+    document.querySelector("textarea").innerHTML="I don't know about this";
 }   
 })
 
