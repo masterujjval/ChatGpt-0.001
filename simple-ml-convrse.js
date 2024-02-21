@@ -34,6 +34,8 @@ let obj=
     "Tell me something" : "The World is goona destroyed so, maintain your repo.",
     "jai shree ram" :"Jai shree Ram",
     "Best thing to learn" : "About your past",
+    "is ai powerful" : "No! just pull out the plug",
+    "how can i get a job" : "Learn skills and keep moving forward",
     
     
 
