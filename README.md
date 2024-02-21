@@ -9,7 +9,7 @@ The contribution of test cases will help train the model to answer particular qu
 ## Execution
 
 - Fork the repo
-- Run the local live server
-- done
+- Run the live local server
+- done! Now you are good to go.
   
 
