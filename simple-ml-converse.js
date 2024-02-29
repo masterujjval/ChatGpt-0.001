@@ -36,7 +36,9 @@ let obj=
     "Best thing to learn" : "About your past",
     "is ai powerful" : "No! just pull out the plug",
     "how can i get a job" : "Learn skills and keep moving forward",
-    
+    "github link": "https://www.github.com/masterujjval",
+    "what is ai" : "A doom for humanity",
+    "does god exist?" : "Yep he does"
     
 
 }
