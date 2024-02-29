@@ -38,7 +38,10 @@ let obj=
     "how can i get a job" : "Learn skills and keep moving forward",
     "github link": "https://www.github.com/masterujjval",
     "what is ai" : "A doom for humanity",
-    "does god exist?" : "Yep he does"
+    "does god exist?" : "Yep he does",
+    "favourite music" : "kaalbhairavm ashtkam",
+    "are you stupid?" : "Yes but not much as you",
+    "how to fight" : "just punch the guy"
     
 
 }
